@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1313" height="513" viewBox="0 0 1313 513">
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="200" viewBox="0 0 1500 200">
   <defs>
     <style>
       .cls-1, .cls-2 {
@@ -32,7 +32,7 @@
       }
     </style>
   </defs>
-  <text id="Lorem_Ipsum" data-name="Lorem Ipsum" class="cls-1" transform="translate(1468.538 -217.123) scale(0.843 0.845)">Lorem Ipsum</text>
-  <text id="DESIGNPROWORKS.COM" class="cls-2" transform="translate(20.419 332.972) scale(0.843 0.845)">DESIGNPROWORKS<tspan class="cls-3">.<tspan class="cls-4">COM</tspan></tspan></text>
-  <text id="HTTP:_" data-name="HTTP://" class="cls-5" transform="translate(25.685 215.306) scale(0.843 0.845)">HTTP://</text>
+  <text id="Lorem_Ipsum" data-name="Lorem Ipsum" class="cls-1" x="1714.245" y="-460.5">Lorem Ipsum</text>
+  <text id="DESIGNPROWORKS.COM" class="cls-2" x="-4.25" y="190.5">DESIGNPROWORKS<tspan class="cls-3">.<tspan class="cls-4">COM</tspan></tspan></text>
+  <text id="HTTP:_" data-name="HTTP://" class="cls-5" x="2" y="51.25">HTTP://</text>
 </svg>
